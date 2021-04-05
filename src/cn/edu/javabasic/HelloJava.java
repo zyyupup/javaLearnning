@@ -1,12 +1,7 @@
 package cn.edu.javabasic;
 
-public class helloJava {
+public class HelloJava {
     public static void main(String[] args) {
-        int[] array = {1,2,3};
-        String str = "123";
-        String strHeap = new String("123");
-        String strCopy = str;
-        strCopy = "456";
         System.out.println(str);
     }
     public static void printArrayAddress(int[] array){
