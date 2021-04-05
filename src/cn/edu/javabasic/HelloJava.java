@@ -2,6 +2,7 @@ package cn.edu.javabasic;
 
 public class HelloJava {
     public static void main(String[] args) {
+        String str = "hello world";
         System.out.println(str);
     }
     public static void printArrayAddress(int[] array){
