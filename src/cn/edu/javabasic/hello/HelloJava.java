@@ -1,4 +1,4 @@
-package cn.edu.javabasic;
+package cn.edu.javabasic.hello;
 
 public class HelloJava {
     public static void main(String[] args) {
