@@ -3,6 +3,7 @@ package cn.edu.javabasic.array;
 import cn.edu.javabasic.oop.Student;
 
 import java.util.ArrayList;
+import java.util.Arrays;
 import java.util.Scanner;
 
 public class DemoArray {
@@ -22,7 +23,5 @@ public class DemoArray {
         }
 
         ArrayList<Integer> arrayListInt = new ArrayList<>();
-
-
     }
 }
