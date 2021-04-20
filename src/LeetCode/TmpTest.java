@@ -7,6 +7,7 @@ public class TmpTest {
 
         int[] intArr = {2, 3, 6, 4, 5, 7, 8, 9};
         Arrays.sort(intArr);
-        System.out.println(intArr.toString());
+        String intArrStr = Arrays.toString(intArr);
+        System.out.println(intArrStr);
     }
 }
