@@ -1,4 +1,4 @@
-package cn.edu.javabasic.static_;
+package cn.edu.javabasic.keyword;
 
 public class DemoStatic {
     public static void main(String[] args) {

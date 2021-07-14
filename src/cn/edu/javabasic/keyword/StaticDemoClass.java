@@ -1,4 +1,4 @@
-package cn.edu.javabasic.static_;
+package cn.edu.javabasic.keyword;
 
 public class StaticDemoClass {
     private int val;

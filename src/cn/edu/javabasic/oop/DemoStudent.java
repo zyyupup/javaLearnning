@@ -1,5 +1,7 @@
 package cn.edu.javabasic.oop;
 
+import cn.edu.javabasic.oop.MyExtends.Student;
+
 import java.util.ArrayList;
 import java.util.Scanner;
 

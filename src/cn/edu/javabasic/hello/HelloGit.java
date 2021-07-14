@@ -1,6 +1,6 @@
 package cn.edu.javabasic.hello;
 
-import cn.edu.javabasic.oop.Student;
+import cn.edu.javabasic.oop.MyExtends.Student;
 
 public class HelloGit {
     public static void main(String[] args) {

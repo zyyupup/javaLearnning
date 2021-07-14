@@ -1,9 +1,8 @@
 package cn.edu.javabasic.array;
 
-import cn.edu.javabasic.oop.Student;
+import cn.edu.javabasic.oop.MyExtends.Student;
 
 import java.util.ArrayList;
-import java.util.Arrays;
 import java.util.Scanner;
 
 public class DemoArray {

@@ -1,6 +1,4 @@
-package cn.edu.javabasic.oop;
-
-import org.omg.CORBA.StringHolder;
+package cn.edu.javabasic.oop.MyExtends;
 
 public class Student {
     private int age;
@@ -8,6 +6,7 @@ public class Student {
     private boolean male;
 
     public Student(int age, String name) {
+
         this.age = age;
         this.name = name;
     }
